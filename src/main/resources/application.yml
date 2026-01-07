@@ -25,4 +25,4 @@ spring:
     pub-sub-domain: false
 
 server:
-  port: 8000
+  port: 9000
